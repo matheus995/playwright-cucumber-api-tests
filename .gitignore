@@ -1,0 +1,60 @@
+### ENV FILE ###
+.env
+
+### ALLURE REPORTS ###
+reports/
+allure-report/
+
+### JAVA PROJECT ###
+target/
+*.class
+hs_err_pid*
+
+### LOG files ###
+*.log
+*.log.1
+LOG_FILE_*
+/test-output/
+
+### Package Files ###
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+### Macos Files ###
+*.DS_Store
+
+### Maven Projects ###
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+dependency-reduced-pom.xml
+.mvn/wrapper/maven-wrapper.jar
+
+### Intellij IDE ###
+.idea
+.idea_modules/
+out/
+*.iml
+
+### Eclipse IDE ###
+.settings/
+bin/
+tmp/
+*.launch
+*.tmp
+*.bak
+*.swp
+*~.nib
+.settings
+.metadata
+.loadpath
+.recommenders
+.target
+.classpath
+.project
